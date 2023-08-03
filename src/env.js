@@ -1,0 +1,2 @@
+export const Vit_AppToken =
+  "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI2YzczZmVmOGFmMzNhY2EzZjkzYzAwNDFjYzBkMThmNyIsInN1YiI6IjY0YTFhNDkwYzM5MGM1MDEwYzYzMTQ1OCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.gCIZr6wEFfI84ZskBW_KcgjqlfPpCsRz0QXvQeWYKN8";
